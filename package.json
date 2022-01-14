@@ -1,0 +1,18 @@
+{
+  "name": "Light-RPG",
+  "version": "1.0.0",
+  "description": "Steps:",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --trace-warnings index.js"
+  },
+  "author": "LmanTW-TW_Yan",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "node": "^16.6.1"
+  }
+}
